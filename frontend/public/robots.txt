@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.plomberie-renaud-services.fr/sitemap.xml
